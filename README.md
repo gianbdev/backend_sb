@@ -1,12 +1,12 @@
 # Rest API + JWT (SPRING BOOT)
 
 ## Descripción
-Una API REST desarrollada con Spring Boot que utiliza JWT para autenticación. Este proyecto proporciona [breve descripción de las funcionalidades].
+Una API REST desarrollada con Spring Boot que utiliza JWT para autenticación. Este proyecto proporciona la autenticacion de usuarios y da acceso a una aplicacion tipo dashboard.
 
 ## Características
 - **Autenticación JWT:** Protección de endpoints mediante tokens JWT.
-- **Endpoints REST:** CRUD para [entidades principales].
-- **[Otras características]:** [Descripción]
+- **Endpoints REST:** CRUD para Resgister y Login.
+- **[HTTP]:** [CREATE, GET, POST , PUT , DELETE]
 
 ## Instalación
 1. Clona el repositorio:
