@@ -69,9 +69,6 @@ Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
 Autores y Reconocimientos
 
-    Autor Principal: [Tu Nombre] ([tu-email@example.com])
-    Reconocimientos: [Nombre de personas o proyectos que has utilizado o a quienes agradeces]
+    Autor Principal: [Giancarlo Silva] ([giancarlo.silva550@gmail.com])
+    Reconocimientos: [IBM, AWS, Microsoft, Oracle]
 
-
-
-Puedes ajustar el contenido y el formato según las necesidades específicas de tu proyecto.
