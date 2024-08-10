@@ -1,0 +1,78 @@
+# Nombre del Proyecto
+
+## Descripción
+Una API REST desarrollada con Spring Boot que utiliza JWT para autenticación. Este proyecto proporciona [breve descripción de las funcionalidades].
+
+## Características
+- **Autenticación JWT:** Protección de endpoints mediante tokens JWT.
+- **Endpoints REST:** CRUD para [entidades principales].
+- **[Otras características]:** [Descripción]
+
+## Instalación
+1. Clona el repositorio:
+   ```bash
+   git clone <url-del-repositorio>
+  ```
+
+2. Navega al directorio del proyecto:
+
+``` bash
+  cd <nombre-del-repositorio>
+```
+
+### Instala las dependencias y ejecuta el proyecto:
+
+  ``` bash
+    ./mvnw install
+    ./mvnw spring-boot:run
+  ```
+
+### Configuración
+application.properties: Configura las propiedades de tu aplicación.
+JWT Configuration: Define la clave secreta y los parámetros de expiración en application.properties.
+
+### Uso
+* Ejemplo de solicitud GET a /api/example:
+
+  ```bash
+  curl -X GET "http://localhost:8080/api/example" -H "Authorization: Bearer <token>"
+  ```
+
+* Respuesta esperada:
+
+```json
+
+    {
+      "key": "value"
+    }
+```
+
+### Pruebas
+
+* Ejecuta las pruebas unitarias y de integración con:
+
+ ```bash
+./mvnw test
+```
+
+### Contribución
+
+Si deseas contribuir, por favor sigue estos pasos:
+
+    Haz un fork del repositorio.
+    Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+    Realiza tus cambios y haz un commit (git commit -am 'Añadir nueva funcionalidad').
+    Haz un push a la rama (git push origin feature/nueva-funcionalidad).
+    Envía un pull request.
+
+Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT.
+Autores y Reconocimientos
+
+    Autor Principal: [Tu Nombre] ([tu-email@example.com])
+    Reconocimientos: [Nombre de personas o proyectos que has utilizado o a quienes agradeces]
+
+
+
+Puedes ajustar el contenido y el formato según las necesidades específicas de tu proyecto.
