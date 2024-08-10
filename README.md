@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Rest API + JWT (SPRING BOOT)
 
 ## Descripción
 Una API REST desarrollada con Spring Boot que utiliza JWT para autenticación. Este proyecto proporciona [breve descripción de las funcionalidades].
@@ -10,15 +10,14 @@ Una API REST desarrollada con Spring Boot que utiliza JWT para autenticación. E
 
 ## Instalación
 1. Clona el repositorio:
-   ```bash
-   git clone <url-del-repositorio>
-  ```
+```bash
+git clone <url-del-repositorio>
+```
 
 2. Navega al directorio del proyecto:
-
 ``` bash
-  cd <nombre-del-repositorio>
-```
+cd <nombre-del-repositorio>
+ ```
 
 ### Instala las dependencias y ejecuta el proyecto:
 
