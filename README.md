@@ -69,6 +69,6 @@ Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
 Autores y Reconocimientos
 
-    Autor Principal: [Giancarlo Silva] ([giancarlo.silva550@gmail.com])
-    Reconocimientos: [IBM, AWS, Microsoft, Oracle]
+    Autor Principal: Giancarlo Silva (giancarlo.silva550@gmail.com)
+    Reconocimientos: IBM, AWS, Microsoft, Oracle
 
